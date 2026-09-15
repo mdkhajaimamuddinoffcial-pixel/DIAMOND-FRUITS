@@ -1,0 +1,10 @@
+[auth]
+enabled = true
+
+[[secret]]
+name = "OWNER_EMAIL"
+expose = true
+
+[[secret]]
+name = "OWNER_PHONE"
+expose = true
